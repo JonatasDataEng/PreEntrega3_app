@@ -81,6 +81,9 @@ Antes de comenzar, asegúrate de tener los siguientes elementos instalados:
 Si deseas contribuir a este proyecto, por favor, sigue estos pasos:
 
    9.1 - Fork el Repositorio
+   
    9.2 - Crea una Rama para tus Cambios
+   
    9.3 - Realiza tus Cambios y Pruebas
+   
    9.4 - Envía un Pull Request
