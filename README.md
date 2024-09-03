@@ -77,10 +77,10 @@ Antes de comenzar, asegúrate de tener los siguientes elementos instalados:
 
    8.3 - Errores de Ejecución: Revisa los logs en la interfaz web de Airflow para obtener detalles específicos sobre cualquier error que ocurra durante la ejecución de la DAG.
 
-## 8. Contribuciones
+## 9. Contribuciones
 Si deseas contribuir a este proyecto, por favor, sigue estos pasos:
 
-Fork el Repositorio
-Crea una Rama para tus Cambios
-Realiza tus Cambios y Pruebas
-Envía un Pull Request
+   9.1 - Fork el Repositorio
+   9.2 - Crea una Rama para tus Cambios
+   9.3 - Realiza tus Cambios y Pruebas
+   9.4 - Envía un Pull Request
