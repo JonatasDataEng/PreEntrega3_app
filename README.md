@@ -49,7 +49,7 @@ Asegúrate de ajustar los valores de conexión a tu base de datos y otros parám
 Inicia los servicios definidos en el archivo docker-compose.yaml:
 
     docker-compose up
-    Esto levantará los contenedores para Apache Airflow, PostgreSQL, Redis y MinIO, entre otros.
+    Esto levantará los contenedores para Apache Airflow, PostgreSQL, Redis, entre otros.
 
 4. Cómo Ejecutar la ETL
 Acceder a la Interfaz Web de Airflow
